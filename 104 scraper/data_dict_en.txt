@@ -1,0 +1,117 @@
+ga4
+google analytic
+gtm
+google tag manager
+bigquery
+data mining
+deep learning
+machine learning
+stored procedure
+data warehouse
+data pipeline
+language model
+natural language processing
+computer vision
+data scientist
+data analyst
+business intelligence
+data engineer
+data processing
+data science
+ai engineer
+ml engineer
+artificial intelligence
+business analyst
+customer experience
+project management
+customer behavior
+reinforcement learning
+data infrastructure
+image processing
+digital marketing
+google cloud platform
+problem solving
+data visualization
+model optimization
+data govermance
+data analysis
+data science
+business intelligence
+business analysis
+machine learning
+ml
+deep learning
+reinforcement learning
+artificial intelligence
+nlp
+natural language processing
+data cleaning
+data visualization
+data warehouse
+database
+etl
+data pipeline
+feature engineering
+feature selection
+feature transformation
+model training
+predictive modeling
+model evaluation
+report generation
+dashboard
+visualization
+a b testing
+kpi
+key performance indicator
+analytics report
+event tracking
+funnel analysis
+campaign performance
+campaign analysis
+ad placement
+ad performance
+keyword
+search volume
+search ranking
+seo
+search engine optimization
+sem
+search engine marketing
+website optimization
+technical seo
+content marketing
+keyword strategy
+meta
+meta description
+title optimization
+internal linking
+external linking
+site speed
+site structure
+user experience
+cta
+call to action
+conversion rate
+conversion
+data process
+data enginner
+robotic process automation
+rpa
+process automation
+text mining
+looker studio
+data flow
+data architecture
+neural network
+aws
+data driven
+big data
+google
+key performance indicator
+stakeholder
+version control
+data lakehouse
+data lake
+scikit learn
+raw data
+jupyter notebook
