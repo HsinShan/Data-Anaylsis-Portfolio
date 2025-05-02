@@ -1,0 +1,255 @@
+數據分析
+資料分析
+追蹤成效
+視覺化
+問卷設計
+數據探勘
+資料探勘
+ga4
+gtm
+bigquery
+數據工程
+數據工程師
+資料工程師
+data enginner
+數據科學家
+資料科學家
+機器學習
+儀表板
+數據治理
+data mining
+資料探勘
+文字探勘
+text mining
+deep learning
+machine learning
+預測模型
+stored procedure
+特徵工程
+預處理
+data warehouse
+流程自動化
+流程優化
+人工智慧
+人工智能
+自然語言處理
+策略規劃
+聊天機器人
+模型
+工程師
+計算機
+機器人
+影像辨識
+影像處理
+行為分析
+客戶分群
+會員分群
+研究員
+生成式ai
+資料庫
+data pipeline
+趨勢分析
+推薦系統
+統計
+深度學習
+商業模式
+解決方案
+洞察
+流程優化
+資料分析
+數據分析
+data analysis
+數據科學
+data science
+商業智慧
+business intelligence
+商業分析
+business analysis
+機器學習
+machine learning
+ml
+深度學習
+deep learning
+強化學習
+reinforcement learning
+人工智慧
+artificial intelligence
+自然語言處理
+nlp
+natural language processing
+資料清洗
+data cleaning
+資料視覺化
+data visualization
+資料倉儲
+數據倉儲
+data warehouse
+資料庫
+database
+etl
+數據管道
+data pipeline
+特徵工程
+feature engineering
+特徵選擇
+feature selection
+特徵轉換
+feature transformation
+訓練模型
+模型訓練
+model training
+預測建模
+predictive modeling
+模型評估
+model evaluation
+報表生成
+report generation
+儀表板
+dashboard
+視覺化
+visualization
+a b 測試
+a b testing
+kpi
+指標
+key performance indicator
+分析報告
+analytics report
+事件追蹤
+event tracking
+漏斗分析
+funnel analysis
+活動成效
+campaign performance
+活動分析
+campaign analysis
+廣告投放
+ad placement
+廣告成效
+ad performance
+關鍵字
+keyword
+搜尋量
+search volume
+搜尋排名
+search ranking
+seo
+search engine optimization
+sem
+search engine marketing
+網站優化
+website optimization
+技術seo
+technical seo
+內容行銷
+content marketing
+關鍵字策略
+keyword strategy
+meta描述
+meta description
+標題優化
+title optimization
+內部連結
+internal linking
+外部連結
+external linking
+網站速度
+site speed
+網站結構
+site structure
+使用者體驗
+user experience
+customer experience
+客戶輪廓
+會員輪廓
+行動召喚
+cta
+call to action
+轉換率
+conversion rate
+成交
+conversion
+溝通
+跨部門
+跨部門合作
+應用場景
+應用
+學習
+雲端
+營運
+邏輯
+維護
+資料清洗
+data cleaning
+data process
+流程自動化
+robotic process automation
+rpa
+process automation
+前處理
+預處理
+影像處理
+聊天機器人
+數據流
+data flow
+客戶輪廓
+數據架構
+data architecture
+model evaluation
+模型評估
+神經網路
+類神經
+neural network
+aws
+部門
+大數據
+商業
+技術
+google
+key performance indicator
+time series
+服務品質
+服務
+利害關係人
+google cloud platform
+解決問題
+問題
+version control
+版本控制
+科學家
+基礎設施
+任務
+責任感
+looker studio
+大學
+之
+及
+以
+各
+有
+並
+依
+將
+報表開發
+開發經驗
+開發團隊
+開發
+維運
+進行
+須
+動態數據
+業界
+數據湖
+data lakehouse
+data lake
+系統
+變異數
+非監督式
+監督式
+結構化
+非結構化
+scikit learn
+原始資料
+raw data
+jupyter notebook
+行動裝置
